@@ -13,7 +13,7 @@ Steps to approach the problem:
 2. **Data Exploration**: Exploring data using above mentioned libraries.
 3. **Data Cleaning**: Checked for missing and duplicate values.
 4. **Data Visualization**: Visualized data using matplotlib and seaborne.Detected outliers and worked on the treatment of outliers.
-5. **Feature Engineering**: Applyied one-hot encoding to convert categorical values into numerical values.
+5. **Feature Engineering**: Applyied one-hot encoding to convert categorical values into numerical values, and standardized the dataset using Standard Scaler.
 6. **Model Training**: Applied different regression ML algorithms such as Linear Regression, Decision Tree Regression and Random Forest Regression to train the model.
 7. **Model Selection**: On the basis of R2 score of all the models, Random Forest Regressor is selected.
 
